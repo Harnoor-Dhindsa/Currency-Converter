@@ -52,7 +52,7 @@ const Converter = () => {
   };
 
   return (
-    <div className="flex flex-col items-center justify-center mb-20 p-0">
+    <div className="flex flex-col items-center justify-center mb-20 p-0 mr-16">
       <h2 className="text-2xl mb-4 font-semibold">Convert your currency</h2>
       <div className="mb-4 flex flex-col items-center">
         <div className="mb-2">
